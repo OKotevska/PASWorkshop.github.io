@@ -1,2 +1,3 @@
-# PASWorkshop
-This is the website repository for PAS workshop
+# PASWorkshop.github.io
+
+Privacy Algorithms in Systems (PAS) Workshop @CIKM'22.
